@@ -1,23 +1,33 @@
-algoritmo "trocar valores"
+algoritmo "semnome"
 // Função :
 // Autor :
-// Data : 08/03/2022
+// Data : 15/03/2022
 // Seção de Declarações 
 var
-  a:inteiro
-  b:inteiro
-  c:inteiro
+algoritmo "trocar valores2"
+// Função :   Troca valoers de 2 variaveis
+// Autor : Fellipe Manaia
+// Data : 08/03/2022
+// Seção de Declarações
+var
+a:inteiro
+b:inteiro
+c:inteiro
 inicio
-// Seção de Comandos 
-a <- 10
-b <- 20
-escreval ("valores originais das varieveis")
-escreval ("valor da variavel a -->" ,a)
-escreval ("valor da varievel b -->",b)
+escreval("Digite seu primeiro valor:")
+leia(a)
+escreval("Digite seu segundo valor:")
+leia(b)
+escreval("Valor Original")
+escreval("Valor de a ==>",a)
+escreval("Valor de b ==>",b)
 c <- a
 a <- b
 b <- c
-escreval ("resultado da troca de valores")
-escreval ("valor da vareavel a -->", a)
-escreval ("valor da vareavel b -->", b)
+escreval("*****************************************")
+escreval("Valores depois da Troca")
+escreval("Valor de a ==>",a)
+escreval("Valor de b ==>",b)
+inicio
+// Seção de Comandos 
 fimalgoritmo

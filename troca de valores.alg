@@ -1,14 +1,15 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 15/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 algoritmo "trocar valores2"
-// Função :   Troca valoers de 2 variaveis
-// Autor : Fellipe Manaia
+// FunÃ§Ã£o :   Troca valoers de 2 variaveis
+// Autor : igor
+
 // Data : 08/03/2022
-// Seção de Declarações
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
 a:inteiro
 b:inteiro
@@ -29,5 +30,5 @@ escreval("Valores depois da Troca")
 escreval("Valor de a ==>",a)
 escreval("Valor de b ==>",b)
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo

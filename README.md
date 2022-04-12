@@ -2,3 +2,4 @@
 repositorio para aulas de programação e algoritimo 
 exercicio aula de pa scrhet 
 https://scratch.mit.edu/projects/663769096/
+https://scratch.mit.edu/projects/674943623

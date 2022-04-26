@@ -1,0 +1,11 @@
+algoritimo calcular valor total
+   entre com valor para valor
+   entre com valor para qtde
+   faça vt = (qtde*valor)
+fim do algoritimo
+
+
+teste de mesa
+valor    qtde     vt
+15         5      75
+37,75      3      113,25

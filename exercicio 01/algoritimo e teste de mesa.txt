@@ -1,0 +1,12 @@
+algoritimo converterdolar
+   entre com um valor de reais e atribuia para valor em reais
+   entre com  a cotação do dolar e atribua para cotação
+   faça o valor de reais / cotação e atribuia o resultado para valor convertido
+   mostre o valor convertido
+fimdoalgoritimo
+
+
+teste de mesa
+valor em reais        cotação         valor convertido
+100                      5                     20
+100                     4,5                   22,22

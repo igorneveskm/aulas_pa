@@ -1,0 +1,12 @@
+algoritimo comição
+   entre com o valor para preço unitario
+   entre com um valor para quantidade_vendida
+   faça preço_unitario*quantidade_vendida e atribuia o valor a total
+   faça total*0,05 e atribuia o valor a comissao
+   mostre o total e a comicao
+fimdoalgoritimo
+
+teste de mesa   
+
+preco unitario             quantidade vendida            total        comissao
+    2.5                            200                    500          25,00

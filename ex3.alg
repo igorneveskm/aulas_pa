@@ -1,17 +1,22 @@
-algoritmo "semnome"
-// Autor : igor
-// Data : 20/09/2022
-var
-numero,contador:inteiro
-resultado:real
-inicio
+algoritmo "ex5 "
 
- escreval("Digite um numero: ")
- leia(numero)
- para contador de 1 ate numero faca
-  resultado <- resultado + (1/contador)
+var
+n,a,cont,media:inteiro
+
+inicio
+enquanto n <> 0 faca
+Escreval("Digite")
+leia(n)
+a<-a+n
+cont<-cont+1
+fimenquanto
+media<-a/media
+escreva(media)
+
+
+
 fimpara
 
-escreval("Resultado é => ",resultado)
+
 
 fimalgoritmo
